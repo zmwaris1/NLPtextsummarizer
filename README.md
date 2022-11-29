@@ -14,3 +14,8 @@ To Run app in localhost<br>
 <li>After login go to here https://huggingface.co/facebook/bart-large-cnn and on right side click on deploy and you will get an option called Accelerated Inference click on that.</li>
 <li>You will get an api key copy these variable for example: headers = {"Authorization": "Bearer xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx"} with api key and replace with my code.</li>
 <li>Thats it now fire up terminal and type python app.py</li>
+
+
+
+### Final Project
+<img src="https://github.com/zmwaris1/NLPtextsummarizer/blob/main/images/final%20project.png">
