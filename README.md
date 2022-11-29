@@ -6,10 +6,11 @@ This is my nlp project where i have used huggingface tranformers text summarizer
 
 
 
-Run app in localhost
-First clone my repo using git clone command
-Unzip and open folder in vscode
-Now visit to https://huggingface.co/ and make an account first
-After login go to here https://huggingface.co/facebook/bart-large-cnn and on right side click on deploy and you will get an option called Accelerated Inference click on that.
-You will get an api key copy these variable for example: headers = {"Authorization": "Bearer xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx"} with api key and replace with my code.
-Thats it now fire up terminal and type python app.py 7.Enjoy in localhost i.e http://127.0.0.1
+To Run app in localhost<br>
+<ul>
+<li>First clone my repo using git clone command</li>
+<li>Unzip and open folder in vscode</li>
+<li>Now visit to https://huggingface.co/ and make an account first</li>
+<li>After login go to here https://huggingface.co/facebook/bart-large-cnn and on right side click on deploy and you will get an option called Accelerated Inference click on that.</li>
+<li>You will get an api key copy these variable for example: headers = {"Authorization": "Bearer xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx"} with api key and replace with my code.</li>
+<li>Thats it now fire up terminal and type python app.py</li>
