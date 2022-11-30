@@ -19,3 +19,9 @@ To Run app in localhost<br>
 
 ### Final Project
 <img src="https://github.com/zmwaris1/NLPtextsummarizer/blob/main/images/final%20project.png">
+
+
+### Due to termination of Heroku free services the app cannot run.
+You can still use the app in your local system using:<br>
+`git clone https://github.com/zmwaris1/NLPtextsummarizer.git`<br>
+After cloning the repo in your local system open terminal in the project directory and type **python app.py**.
